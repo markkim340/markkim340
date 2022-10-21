@@ -1,11 +1,8 @@
 <div align="center">
 
-### Hi there 👋
-### Mark Kim 😁
-🔭 STACK ...</br>
+## Hi there 👋
+### Mark Kim 
 </br>
-#
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=markkim340&show_icons=true&theme=vue)</br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 </div>
