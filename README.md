@@ -1,7 +1,7 @@
 <div align="center">
 
-## Hi there 👋
-### Mark Kim 
+## Mark Kim (Back-End engineer)
+### 만나서 반갑습니다. 백엔드 개발자 김민우입니다.
 </br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
